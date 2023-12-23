@@ -1,0 +1,248 @@
+/* Basics Of Flexbox */
+/* .flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Flex Container */
+/* .flex-container {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Flex-Wrap */
+/* .flex-container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Flex Flow */
+/* .flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+  flex-flow: row;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Justify Content */
+/* .flex-container {
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-around;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Align Item */
+/* .flex-container {
+  display: flex;
+  height: 400px;
+  align-items: center;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  height: 150px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Align Content */
+/* .flex-container {
+  display: flex;
+  height: 600px;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  overflow: scroll;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Perfect Centering */
+/* .flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  color: white;
+  width: 100px;
+  height: 100px;
+} */
+
+/* Flex-Items */
+/* The Order Property */
+/* .flex-container {
+  display: flex;
+  align-items: stretch;
+  background-color: #f1f1f1;
+}
+
+.flex-container > div {
+  background-color: DodgerBlue;
+  color: white;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Flex Grow Property */
+/* .flex-container {
+  display: flex;
+  align-items: stretch;
+  background-color: #f1f1f1;
+}
+
+.flex-container > div {
+  background-color: DodgerBlue;
+  color: white;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Flex Shrink Property */
+/* .flex-container {
+  display: flex;
+  align-items: stretch;
+  background-color: #f1f1f1;
+}
+
+.flex-container > div {
+  background-color: DodgerBlue;
+  color: white;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Flex Basis */
+/* .flex-container {
+  display: flex;
+  align-items: stretch;
+  background-color: #f1f1f1;
+}
+
+.flex-container > div {
+  background-color: DodgerBlue;
+  color: white;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* Align Self */
+/* .flex-container {
+  display: flex;
+  height: 200px;
+  background-color: #f1f1f1;
+}
+
+.flex-container > div {
+  background-color: DodgerBlue;
+  color: white;
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+
+/* RESPONSIVE FLEXBOX */
+/* * {
+  box-sizing: border-box;
+}
+
+.flex-container {
+  display: flex;
+  flex-direction: row;
+  font-size: 30px;
+  text-align: center;
+}
+
+.flex-item-left {
+  background-color: #f1f1f1;
+  padding: 10px;
+  flex: 50%;
+}
+
+.flex-item-right {
+  background-color: dodgerblue;
+  padding: 10px;
+  flex: 50%;
+}
+
+@media (max-width: 800px) {
+  .flex-container {
+    flex-direction: column;
+  }
+} */
